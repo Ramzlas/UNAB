@@ -1,4 +1,3 @@
-![UNAB Banner](Imágenes/Banner UNAB.png)
-)
+![UNAB Banner](Imágenes/BannerUNAB.png)
 
 #UNAB
