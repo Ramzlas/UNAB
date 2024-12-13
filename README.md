@@ -15,8 +15,3 @@
   - [Materia 3](ruta/a/carpeta)
   - [Materia 4](ruta/a/carpeta)
 
----
-
-## Sobre la Carrera
-La **Tecnicatura Universitaria en Programación** tiene como objetivo formar profesionales con habilidades en desarrollo de software, programación y resolución de problemas tecnológicos. Durante la carrera, aprenderemos sobre lenguajes de programación, bases de datos, desarrollo web y mucho más.
-
