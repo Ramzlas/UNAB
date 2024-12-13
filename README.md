@@ -10,14 +10,14 @@
 
 - **Primer Año**
   - **Primer Cuatrimestre**
-    - [Materia 1](ruta/a/carpeta)
-    - [Materia 2](ruta/a/carpeta)
-    - [Materia 2](ruta/a/carpeta)
+    - [Ciencia, Tecnología e Inovación](ruta/a/carpeta)
+    - [Matemática General](ruta/a/carpeta)
+    - [Algoritmos y estructuras de Datos](ruta/a/carpeta)
   - **Segundo Cuatrimestre**
-    - [Materia 3](ruta/a/carpeta)
-    - [Materia 4](ruta/a/carpeta)
-    - [Materia 2](ruta/a/carpeta)
-    - [Materia 2](ruta/a/carpeta)
+    - [Organización de computadoras](ruta/a/carpeta)
+    - [Álgebra](ruta/a/carpeta)
+    - [Estructura de Datos](ruta/a/carpeta)
+    - [Inglés](ruta/a/carpeta)
 - **Segundo Año**
   - **Primer Cuatrimestre**
     - [Materia 1](ruta/a/carpeta)
