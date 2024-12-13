@@ -20,24 +20,24 @@
     - [Inglés](ruta/a/carpeta)
 - **Segundo Año**
   - **Primer Cuatrimestre**
-    - [Materia 1](ruta/a/carpeta)
-    - [Materia 2](ruta/a/carpeta)
-    - [Materia 2](ruta/a/carpeta)
+    - [Programación Avanzada](ruta/a/carpeta)
+    - [Probabilidad y Estadística](ruta/a/carpeta)
+    - [Desarrollo de software](ruta/a/carpeta)
+    - [Inglés comunicacional](ruta/a/carpeta)
   - **Segundo Cuatrimestre**
-    - [Materia 3](ruta/a/carpeta)
-    - [Materia 4](ruta/a/carpeta)
-    - [Materia 2](ruta/a/carpeta)
-    - [Materia 2](ruta/a/carpeta)
+    - [Gestión de Datos](ruta/a/carpeta)
+    - [Inferencia Estadística y reconocimiento de patrones](ruta/a/carpeta)
+    - [Visualización de la información](ruta/a/carpeta)
 - **Tercer Año**
   - **Primer Cuatrimestre**
-    - [Materia 1](ruta/a/carpeta)
-    - [Materia 2](ruta/a/carpeta)
-    - [Materia 2](ruta/a/carpeta)
+    - [Sistemas Operativos](ruta/a/carpeta)
+    - [Redes de computadoras](ruta/a/carpeta)
+    - [Conceptos y Paradigmas de Lenguajes de Programación](ruta/a/carpeta)
   - **Segundo Cuatrimestre**
-    - [Materia 3](ruta/a/carpeta)
-    - [Materia 4](ruta/a/carpeta)
-    - [Materia 2](ruta/a/carpeta)
-    - [Materia 2](ruta/a/carpeta)
+    - [Programación Concurrente](ruta/a/carpeta)
+    - [Inteligencia artificial](ruta/a/carpeta)
+    - [Metodologías Ágiles para el desarollo de Software](ruta/a/carpeta)
+    - [Práctica Profesional Supervisada (PPS)](ruta/a/carpeta)
 
  ---
 
