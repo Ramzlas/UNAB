@@ -9,11 +9,35 @@
 ## 📂 Estructura del Repositorio
 
 - **Primer Año**
-  - [Materia 1](ruta/a/carpeta)
-  - [Materia 2](ruta/a/carpeta)
+  - **Primer Cuatrimestre**
+    - [Materia 1](ruta/a/carpeta)
+    - [Materia 2](ruta/a/carpeta)
+    - [Materia 2](ruta/a/carpeta)
+  - **Segundo Cuatrimestre**
+    - [Materia 3](ruta/a/carpeta)
+    - [Materia 4](ruta/a/carpeta)
+    - [Materia 2](ruta/a/carpeta)
+    - [Materia 2](ruta/a/carpeta)
 - **Segundo Año**
-  - [Materia 3](ruta/a/carpeta)
-  - [Materia 4](ruta/a/carpeta)
+  - **Primer Cuatrimestre**
+    - [Materia 1](ruta/a/carpeta)
+    - [Materia 2](ruta/a/carpeta)
+    - [Materia 2](ruta/a/carpeta)
+  - **Segundo Cuatrimestre**
+    - [Materia 3](ruta/a/carpeta)
+    - [Materia 4](ruta/a/carpeta)
+    - [Materia 2](ruta/a/carpeta)
+    - [Materia 2](ruta/a/carpeta)
+- **Tercer Año**
+  - **Primer Cuatrimestre**
+    - [Materia 1](ruta/a/carpeta)
+    - [Materia 2](ruta/a/carpeta)
+    - [Materia 2](ruta/a/carpeta)
+  - **Segundo Cuatrimestre**
+    - [Materia 3](ruta/a/carpeta)
+    - [Materia 4](ruta/a/carpeta)
+    - [Materia 2](ruta/a/carpeta)
+    - [Materia 2](ruta/a/carpeta)
 
  ---
 
