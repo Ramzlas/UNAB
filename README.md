@@ -15,3 +15,10 @@
   - [Materia 3](ruta/a/carpeta)
   - [Materia 4](ruta/a/carpeta)
 
+ ---
+
+## Enlaces de Interés
+- [Universidad Nacional de Almirante Brown](https://www.unab.edu.ar)
+- [Plan de Estudios](https://www.unab.edu.ar/wp-content/uploads/2023/05/Programacion-PE-2023.pdf)
+
+---
