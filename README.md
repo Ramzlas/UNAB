@@ -20,10 +20,10 @@
     - [Inglés](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Segundo_Cuatrimestre/Inglés)
 - **Segundo Año**
   - **Primer Cuatrimestre**
-    - [Programación Avanzada](ruta/a/carpeta)
-    - [Probabilidad y Estadística](ruta/a/carpeta)
-    - [Desarrollo de software](ruta/a/carpeta)
-    - [Inglés comunicacional](ruta/a/carpeta)
+    - [Programación Avanzada](Tecnicatura_Universitaria_en_Programación_-_UNAB/Segundo_Año/Primer_Cuatrimestre/Programación_Avanzada)
+    - [Probabilidad y Estadística](Tecnicatura_Universitaria_en_Programación_-_UNAB/Segundo_Año/Primer_Cuatrimestre/Probabilidad_y_Estadística)
+    - [Desarrollo de software](Tecnicatura_Universitaria_en_Programación_-_UNAB/Segundo_Año/Primer_Cuatrimestre/Desarrollo_de_software)
+    - [Inglés comunicacional](Tecnicatura_Universitaria_en_Programación_-_UNAB/Segundo_Año/Primer_Cuatrimestre/Inglés_comunicacional)
   - **Segundo Cuatrimestre**
     - [Gestión de Datos](ruta/a/carpeta)
     - [Inferencia Estadística y reconocimiento de patrones](ruta/a/carpeta)
