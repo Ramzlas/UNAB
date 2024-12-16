@@ -10,9 +10,9 @@
 
 - **Primer Año**
   - **Primer Cuatrimestre**
-    - [Ciencia, Tecnología e Inovación](ruta/a/carpeta)
-    - [Matemática General](ruta/a/carpeta)
-    - [Algoritmos y estructuras de Datos](ruta/a/carpeta)
+    - [Ciencia, Tecnología e Inovación](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Primer_Cuatrimestre/Ciencia,_Tecnología_e_Inovación)
+    - [Matemática General](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Primer_Cuatrimestre/Matemática_General)
+    - [Algoritmos y estructuras de Datos](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Primer_Cuatrimestre/Algoritmos_y_estructuras_de_Datos)
   - **Segundo Cuatrimestre**
     - [Organización de computadoras](ruta/a/carpeta)
     - [Álgebra](ruta/a/carpeta)
