@@ -10,7 +10,7 @@
 
 - **Primer Año**
   - **Primer Cuatrimestre**
-    - [Ciencia, Tecnología e Inovación](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Primer_Cuatrimestre/Ciencia,_Tecnología_e_Inovación)
+    - [Ciencia, Tecnología e Inovación](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Primer_Cuatrimestre/Ciencia,_Tecnología_e_Innovación)
     - [Matemática General](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Primer_Cuatrimestre/Matemática_General)
     - [Algoritmos y estructuras de Datos](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Primer_Cuatrimestre/Algoritmos_y_estructuras_de_Datos)
   - **Segundo Cuatrimestre**
