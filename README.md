@@ -30,14 +30,14 @@
     - [Visualización de la información](Tecnicatura_Universitaria_en_Programación_-_UNAB/Segundo_Año/Segundo_Cuatrimestre/Visualización_de_la_información)
 - **Tercer Año**
   - **Primer Cuatrimestre**
-    - [Sistemas Operativos](ruta/a/carpeta)
-    - [Redes de computadoras](ruta/a/carpeta)
-    - [Conceptos y Paradigmas de Lenguajes de Programación](ruta/a/carpeta)
+    - [Sistemas Operativos](Tecnicatura_Universitaria_en_Programación_-_UNAB/Tercer_Año/Primer_Cuatrimestre/Sistemas_Operativos)
+    - [Redes de computadoras](Tecnicatura_Universitaria_en_Programación_-_UNAB/Tercer_Año/Primer_Cuatrimestre/Redes_de_computadoras)
+    - [Conceptos y Paradigmas de Lenguajes de Programación](Tecnicatura_Universitaria_en_Programación_-_UNAB/Tercer_Año/Primer_Cuatrimestre/Conceptos_y_Paradigmas_de_Lenguajes_de_Programación)
   - **Segundo Cuatrimestre**
-    - [Programación Concurrente](ruta/a/carpeta)
-    - [Inteligencia artificial](ruta/a/carpeta)
-    - [Metodologías Ágiles para el desarollo de Software](ruta/a/carpeta)
-    - [Práctica Profesional Supervisada (PPS)](ruta/a/carpeta)
+    - [Programación Concurrente](Tecnicatura_Universitaria_en_Programación_-_UNAB/Tercer_Año/Segundo_Cuatrimestre/Programación_Concurrente)
+    - [Inteligencia artificial](Tecnicatura_Universitaria_en_Programación_-_UNAB/Tercer_Año/Segundo_Cuatrimestre/Inteligencia_artificial)
+    - [Metodologías Ágiles para el desarollo de Software](Tecnicatura_Universitaria_en_Programación_-_UNAB/Tercer_Año/Segundo_Cuatrimestre/Metodologías_Ágiles_para_el_desarrollo_de_Software)
+    - [Práctica Profesional Supervisada (PPS)](Tecnicatura_Universitaria_en_Programación_-_UNAB/Tercer_Año/Segundo_Cuatrimestre/Práctica_Profesional_Supervisada_(PPS))
 
  ---
 
