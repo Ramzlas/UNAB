@@ -14,10 +14,10 @@
     - [Matemática General](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Primer_Cuatrimestre/Matemática_General)
     - [Algoritmos y estructuras de Datos](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Primer_Cuatrimestre/Algoritmos_y_estructuras_de_Datos)
   - **Segundo Cuatrimestre**
-    - [Organización de computadoras](ruta/a/carpeta)
-    - [Álgebra](ruta/a/carpeta)
-    - [Estructura de Datos](ruta/a/carpeta)
-    - [Inglés](ruta/a/carpeta)
+    - [Organización de computadoras](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Segundo_Cuatrimestre/Organización_de_computadoras)
+    - [Álgebra](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Segundo_Cuatrimestre/Álgebra)
+    - [Estructura de Datos](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Segundo_Cuatrimestre/Estructura_de_Datos)
+    - [Inglés](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Segundo_Cuatrimestre/Inglés)
 - **Segundo Año**
   - **Primer Cuatrimestre**
     - [Programación Avanzada](ruta/a/carpeta)
