@@ -25,9 +25,9 @@
     - [Desarrollo de software](Tecnicatura_Universitaria_en_Programación_-_UNAB/Segundo_Año/Primer_Cuatrimestre/Desarrollo_de_software)
     - [Inglés comunicacional](Tecnicatura_Universitaria_en_Programación_-_UNAB/Segundo_Año/Primer_Cuatrimestre/Inglés_comunicacional)
   - **Segundo Cuatrimestre**
-    - [Gestión de Datos](ruta/a/carpeta)
-    - [Inferencia Estadística y reconocimiento de patrones](ruta/a/carpeta)
-    - [Visualización de la información](ruta/a/carpeta)
+    - [Gestión de Datos](Tecnicatura_Universitaria_en_Programación_-_UNAB/Segundo_Año/Segundo_Cuatrimestre/Gestión_de_Datos)
+    - [Inferencia Estadística y reconocimiento de patrones](Tecnicatura_Universitaria_en_Programación_-_UNAB/Segundo_Año/Segundo_Cuatrimestre/Inferencia_Estadística_y_reconocimiento_de_patrones)
+    - [Visualización de la información](Tecnicatura_Universitaria_en_Programación_-_UNAB/Segundo_Año/Segundo_Cuatrimestre/Visualización_de_la_información)
 - **Tercer Año**
   - **Primer Cuatrimestre**
     - [Sistemas Operativos](ruta/a/carpeta)
