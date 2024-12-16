@@ -2,7 +2,7 @@
 
 # UNAB - Tecnicatura Universitaria en Programación
 
-¡Hola! Soy **Ramiro Nicolás Díaz**, estudiante de la **Universidad Nacional de Almirante Brown (UNAB)**. Este repositorio está destinado a organizar y compartir los recursos, proyectos y tareas desarrollados a lo largo de mi carrera en la **Tecnicatura Universitaria en Programación**.
+¡Hola! Soy **Ramiro Nicolás Díaz**, estudiante de la **Universidad Nacional Guillermo Brown (UNAB)**. Este repositorio está destinado a organizar y compartir los recursos, proyectos y tareas desarrollados a lo largo de mi carrera en la **Tecnicatura Universitaria en Programación**.
 
 ---
 ## 📂 Estructura del Repositorio
@@ -41,7 +41,7 @@
  ---
 
 ## Enlaces de Interés
-- [Universidad Nacional de Almirante Brown](https://www.unab.edu.ar)
+- [Universidad Nacional Guillermo Brown](https://www.unab.edu.ar)
 - [Plan de Estudios](https://www.unab.edu.ar/wp-content/uploads/2023/05/Programacion-PE-2023.pdf)
 
 ---
