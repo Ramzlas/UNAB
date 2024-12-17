@@ -1,0 +1,98 @@
+Ejercicios:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+1) Supongamos que la Tierra es una esfera perfecta y tenemos una cuerda que le da toda la vuelta bien pegada sobre el Ecuador. Ahora le agregamos a la cuerda 1 metro (es decir mide un metro más).
+ a) ¿Cuánto se separará de la superficie terrestre? Sacar conclusiones del resultado.
+ b) Mismo experimento pero con una pelota de futbol. Supongamos que tenemos una cinta que rodea toda su circunferencia y a la cinta le agregamos 1 metro ¿Cuánto se apartará esta vez la cinta de la pelota? Antes hacer cálculos   reflexiones un poco y atrévanse a formular una posible respuesta. Luego si hacer los cálculos que consideren y sacar conclusiones.
+
+Resolución:
+ a) En principal tomaremos los datos de la circunferencia y el radio de la tierra, a estos los llamaremos C1 y R1 en su respectivo orden y letra inicial. Sacando los datos de la circunferencia del planeta tierra por Google determinamos   C1=   40.075 km. Ante esto calculariamos el radio de esta tierra totalmente esferica asignando: 												R1= C1/(2π) -> 40.075/(2π) -> R1= 6.378,13434441 km.
+
+ Para calcular la nueva circunferencia del circulo más un metro adicional vamos a guardar los datos en la variable C2: 			C2= (R2+0.001)*(2π).
+
+ Ahora volveremos a calcular el radio de la tierra con la longitud de la cuerda más un metro adicional, la llamaremos R2:		R2= C2/(2π) -> R2= 40.075,001/(2π) -> R2= 6.378,13450356 km.
+
+ Ante esto determinamos la separacion que va a ser llamada como S:									S= R2-R1 -> S= 6.378,13450356-6.378,13434441 ->  0.00015914999 km.
+
+ Básicamente llegamos a la conclusion de que la nueva cuerda que rodeaderia el Ecuador se separaria a 0.00015914999 km. Esto seria aproximado a 16 cm. 
+
+																																		RESUELTO
+
+ b) Como en el otro caso con la tierra como esfera, tomaremos los datos de circunferencia de una pelota de futbol la cual tiene aproximadamente entre en 68 y 70 cm pero vamos a tomar 70 cm y la vamos a asignar como C1 para poder  ir  calculando el radio de la pelota cual vamos a llamar como R1:									R1= C1/(2π) -> 70/(2π)  -> R1= 11,1408460164 cm.
+ 															
+ Para calcular la nueva circunferencia del circulo más un metro adicional vamos a guardar los datos en la variable C2: 			C2= (R2+100)*(2π).
+
+ Ahora volveremos a calcular el radio de la pelota de futbol con la longitud de la cuerda más un metro adicional, la llamaremos R2:	R2= C2/(2π) -> R2= 170/(2π) -> R2= 27,0563403256 cm.
+
+ Ante esto determinamos la separacion que va a ser llamada como S:									S= 27,0563403256- 11,1408460164= 15,9154943092 cm.
+
+ Básicamente se repite el proceso y la conclusion de que la nueva cuerda que rodeaderia la pelota se separaria a 15,9154943092 cm. Como en el otro caso esta muy aproximado a 16 cm y es increible ya que parecia contra intuitivo en  todos los casos pueda separse de la otra cuerda unos 16  cm, estos patrones se repiten en los dos casos y esta muy bueno.
+																																																																							RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 2) Una familia de 4 miembros (la hija pequeña, papá, mamá embarazada y el abuelo) tiene que cruzar un viejo, endeble y estrecho puente sobre un río. Cada uno tarda un tiempo para cruzar el papá tarda 2 minutos, la mamá tarda 5, la   niña pequeña tarda 1 minuto y el abuelo tarda 8. El puente sólo resiste un máximo de 2 personas cruzando a la vez, y cuando cruzan dos personas juntas caminan a la velocidad del más lento. Es una noche cerrada y se necesita llevar  una linterna para cruzar, pero el grupo sólo  dispone de una linterna, a la que le quedan 15 minutos de batería. No se puede lanzar la linterna de un extremo a otro del puente, así que cada vez  que crucen dos personas, alguien tiene que  volver a cruzar hacia atrás con la linterna a  buscar a los que falten, y repetir este proceso hasta que hayan cruzado todos.
+ a) ¿Cuál sería una solución válida?
+
+Resolución:
+ a) Primero vamos administrar el tiempo de los miembros de la familia en orden del más rapido/a a más lento/a:	Número 1: la niña pequeña (1 min). Número 2: el papa (2 min). Número 3: la mama (5 min). Número 4: el abuelo (8 min).
+
+     Ahora vamos a organizar el orden que van a ir las parejas:						Primero va el padre y la hija (2 min), vuelve la hija (1 min), segundo va el abuelo y la mama (8 min), vuelve el papa (2 min), tercero van padre y hija (2 min).
+     													Yendo la familia en ese orden no tendran problemas con la bateria de la linterna. 2+1+8+2+2= 15.
+
+																																		RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 3) Teniendo dos relojes de arena, uno de 4 minutos y otro de 7 minutos.
+ a) ¿Cuál es el método más rápido para cronometrar 9 minutos?
+
+Resolución:
+ a) Para resolverlo haria asi:	0 minutos: ambos relojes de arena empiezan a marcar.
+				4 minutos: el de 4 minutos se acabaria por su arena pero lo vuelvo a poner al instante.
+				7 minutos: el de 7 minutos se acabaria pero lo vuelvo a poner instante para que siga marcando.
+				8 minutos: el de 4 minutos  se acabaria y instantamente el de 7 que conto el minuto del reloj de 4 lo doy vuelta al instante con su minuto restante.
+				9 minutos: el de 7 minutos terminaria de marcar el minuto con la arena acumulada de un minuto.
+					
+																																		RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 4) Dicen que, según la calidad del papel, no se puede doblar en partes iguales más de 7 veces, entonces:
+ a) ¿Cuántas veces se puede doblar un papel por la mitad?
+ b) Si tenemos un papel de 0.1 ml de grosor, ¿Cuánto mide luego de doblarlo 7 veces?
+
+Resolución:
+ a) Un papel se puede doblar por la mitad 6 veces tranquilamente, en la septima vez el papel sera casi imposible hacer que cierre y que se mantenga en un estado sano. llegar a la octava vez deberia ser con elementos de presion y el  papel quedaria totalmente arruinado por la fuerza ejercida ante el.
+ b) Si un papel con un grosor de 0,1 ml se dobla 7 veces va a ir incrementandose duplicandose cada vez más y más, aqui vamos a realizar la prueba:	Inicio: 0,1 ml de grosor.
+																			Primer redoble: 0,2 ml de grosor.
+ Redoble del papel= X {X Є N}		Grosor del papel= G.												Segundo redoble: 0,4 ml de grosor.
+																			Tercer redoble: 0,8 ml de grosor.
+ Formula: (2^X)*(0,1) = G.																Cuarto redoble: 1,6 ml de grosor.
+																			Quinto redoble: 3,2 ml de grosor.
+ Ej con 7 redobles de papel:		(2^7)*(0,1)= 128*(0,1)= 12,8.											Sexto redoble: 6,4 ml de grosor.
+ 																			Septimo redoble: 12,8 ml de grosor.
+
+																																		RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 5) Sigue atentamente la explicación del profesor y hace un analisis de que te parece:
+ a) Si A= 1 y B= 1 entonces A= B.
+ b) Multiplicando a ambos lados de la igualdad por B, quedaria: A*B= (B^2).
+ c) Restando a ambos lados de la igualdad (A^2) tenemos: A*B-(A^2)= (B^2)-(A^2).
+ d) Factorizando: A*(B-A)= (A+B)*(B-A).
+ e) Simplificando por el término (B-A): A= A+B.
+ f) Puesto que A= B, entonces la expresión es equivalente a: A= A+A.
+ g) Por lo tanto: A= 2*A.
+ h) Entonces: 1= 2.
+
+Resolución:
+ a) Comenzamos con una proposición de A=B que determina que A y B son iguales.
+ b) Luego multiplica a ambos lados por B y quedaria A*B= (B^2).
+ c) Resta a ambos lados (A^2) quedando: A*B-(A^2)= (B^2)-(A^2).
+ d) Luego factoriza quedando: A*(B-A)= (A+B)*(B-A).
+ e) Luego simplifica eliminando a (B-A) de ambos lados dejando un error ya que no seria asi b=1 seria b=0: A= A+B.
+ f) Cambia la expresión sin cambiar el otro error antes cometido dejando: A= A+A.
+ g) Ya asumiendo que A= 2*A dejando el error ya que para que esa condición sea verdad a deberia ser 0. Que es el unico número que podria dar como correcto en esa incognita, a pesar de que al principio estaba marcado que A= 1.
+ h) Esto lo cierra diciendo que 1=2 cuando no es asi, eso paso por en la simplificación por el término (B-A), y divide ambos lados por(B-A), lo cual no es válido cuando B=A porque estaríamos dividiendo por cero.
+
+																																		RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 

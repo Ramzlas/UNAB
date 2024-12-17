@@ -1,0 +1,86 @@
+Ejercicios:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+1) Resolver gráfica y analíticamente los siguientes sistemas:
+ a) {y= (x^2)-4x+5  
+    {y= (-(x-2)^2)+1 
+ b) {y= (x^2)-x  
+    {y= 1-(x^2)
+ c) {y= (x^2)-4x+2  
+    {y= 2+x
+ d) {y= (x^2)-x
+    {y= (2x^2)-2x
+ e) {y= 0,5(x-1)(x+2) 1,5x+1,5 - 0.5(x^2)+x-2 
+    {y= 2x+4
+ f) {f(x)= x+2-3
+    {g(x)= (1/2)x+1
+ g) {y= (x+2)/(x+1)
+    {y= (x^2)-4
+ h) {f(x)= x+2-3
+    {g(x)= x+1
+ i) {y= (x^2)+x
+    {y= 1+x
+
+Resolución:
+ 
+Voy a tomar cada sistema como (I) y (II). Asi en cada uno en su orden con sus valores en puntos, (X,Y).
+
+ a)	I)  [(0,5)(1,2)(2,1)(3,2)(4,5)].																														RESUELTO
+	II) [(0,-3)(1,0)(2,1)(3,0)(4,-3)].
+ b)	I)  [(-2,6)(-1,2)(0,1)(1,0)(2,2)].																														RESUELTO
+	II) [(-2,-3)(-1,-1)(0,0)(1,0)(2,-3)].
+ c)	I)  [(0,2)(1,-1)(2,-2)(3,-1)(4,2)].																														RESUELTO
+	II) [(0,2)(1,3)(2,4)(3,5)(4,6)].
+ d)	I)  [(-2,6)(-1,-2)(0,0)(1,0)(2,2)].																														RESUELTO	
+	II) [(-2,12)(-1,4)(0,0)(1,0)(2,4)].
+ e)	I)  [(-2,0)(-1,-1)(0,-1)(1,0)(2,2)].																														RESUELTO	
+	II) [(-2,0)(-1,2)(0,4)(1,6)(2,8)].
+ f)	I)  [(2,1)(3,2)(4,3)(5,4)(6,5)].																														RESUELTO
+	II) [(2,2)(3,5/2)(4,3)(5,7/2)(6,4)].
+ g)	I)  [(-2,0)(-1,NE)(0,0)(1,3/2)(2,4/3)].																														RESUELTO
+	II) [(-2,0)(-1,-3)(0,.4)(1,-3)(2,0)].
+ h)	I)  [(-2,-3)(-1,-2)(0,-1)(1,0)(2,1)].																														RESUELTO
+	II) [(-2,-1)(-1,0)(0,1)(1,2)(2,3)].
+ i)	I)  [(-2,2)(-1,0)(0,0)(1,2)(2,6)].																														RESUELTO
+	II) [(-2,-1)(-1,0)(0,1)(1,2)(2,3)].
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2)Lanzamos un proyectil. Tenemos que la altura alcanzada “y” (en Km) y los kilómetros recorridos “x” están relacionados por la ecuación y = -2(x^2)+4x. A 1 Km del lugar de lanzamiento se encuentra una montaña cuya ladera oeste sigue la recta de ecuación y= 6x-6. 
+ a) Halla el punto de la montaña donde se producirá el impacto.
+																																			RESUELTO
+Resolución:
+ a) Primero igualamos las ecuaciones: -2(x^2)+4x= 6x-6 -> -2(x^2)-2x-6= 0 -> (x^2)+x-3=0. Luego resolvemos la ecuación cuadrática usando Bhaskara que es asi: (-b+-((b^2)-4ac)^1/2)/2a													
+ 																													
+ | a= 1 | b= 1 | c= -3 | (-1+-((1^2)-4*1*(-3))^1/2)/2*1 -> (-1+-(13)^1/2)/2. Suponiendo que la montaña del oeste surge a 1 km del lugar tomaremos solo en cuenta el punto superior a ese lugar, por ende el proyectil va impactar contra la montaña en:  x= ((-1+-(13)^1/2)/2 == 1,302775638)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+3) El costo total de producción de “x” unidades de un determinado artículo está dado por la función C(x) = (x^2)+2x+360 y los ingresos obtenidos por las venta por I(x)= (-x^2)+74x Se solicita:
+ a) Graficar las dos funciones en un mismo sistema de ejes cartesianos.
+ b) ¿Cuál son las restricciones que se deben realizar para para que la situación tenga sentido?
+ c) ¿A partir de que cantidad de unidades los costos igualan a las ganancias?
+ d) ¿Qué pasa para cantidades inferiores y para las mayores a la obtenida en el ítem anterior?
+
+Resolución:
+ a) Hecho.
+ b) Las restricciones para que la situación tenga sentido son X>=0, ya que no puede haber una cantidad negativa de unidades producidas.
+ c) Para encontrar el punto donde los costos igualan a las ganancias, igualamos las dos funciones y resolvemos la ecuación resultante como antes: (x^2)+2x+360= (-x^2)+74x -> (2x^2)-72x+360= 0 -> (x^2)-36x+180= 0
+
+ | a= 1 | b= -36 | c= 180 | x= (36+-((-36^2)-4*1*(-36))^1/2)/2*1 -> x= (36+-24)/2. Entonces las soluciones son x= 30 y x= 6.
+ d)Para cantidades inferiores a x= 6, los costos serán mayores que las ganancias. Para cantidades mayores a x= 30 los ingresos serán mayores que los costos.																RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+4) Se lanza una pelota hacia arriba y simultáneamente un ave levanta vuelo. La trayectoria de la pelota se describe mediante la función y= −3(x^2)+12x y la del vuelo del ave, mediante y= 1,5x+7,5 (donde x representa el tiempo y la posición) siendo (x;y) las coordenadas de la trayectoria.
+ a) Graficar las dos funciones en un mismo sistema de ejes cartesianos.
+ b) ¿después de cuanto tiempo la pelota alanza al ave?
+
+Resolución:
+ a) Hecho
+ b)Para encontrar el tiempo en el que la pelota alcanza al ave, igualamos las dos funciones como hicimos anteriormente: −3(x^2)+12x= 1,5x+7,5 -> −3(x^2)+10,5x−7,5= 0.
+
+| a= -3 | b= 10,5 | c= -7,5 | x= (-10,5+-((10,5^2)-4*(-3)*(-7,5))^1/2)/2*(-3) -> x= (-10,5+-4,5)/(-6). Entonces las soluciones son 1 y 2,5. Por lo tanto, la pelota alcanza al ave después de 2,5 segundos.										RESUELTO
+																																			
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+ 

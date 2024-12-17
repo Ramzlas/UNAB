@@ -1,0 +1,156 @@
+Ejercicios:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+1) Resolver aplicando las propiedades:
+
+	a) 1-(6-3+9)+(-5+1)-11= 1-12-4-11= -26 																													RESUELTO
+	b) -12+(-5-6-4)-(7-3)= -12-15-4= -31 																													RESUELTO
+	c) (1-5*3)/2-8/(-2)*(-5)+6= (-14)/2+4*(-5)+6= -7-20+6= -21					 																					RESUELTO
+	d) 6*(-5+2)/(-3)+(15/3-12)*2+(-7)*2= -18/(-3)-14-14= 6-28= -22 																										RESUELTO
+	e) ((7^2)+1)/(-10)+3*(-8^(1/3))-15/5= 50/(-10)+3*(-2)-3= -5-6-3= -14 																									RESUELTO
+	f) 24/(6*5-(6^2))+(((5^2)+2)^(1/3))+40/((-2)^3)-4*(5-8)= 24/(-6)+3-5+12= -4+3-5+12= 6 																							RESUELTO
+	g) (1/2)+(3/2)-(6/2)+(7/2)= 4/2+1/2= 5/2 																												RESUELTO
+	h) (1/2+3/4)-(1/2+1/6)= 5/4-4/6= 7/12 																													RESUELTO
+	i) (1-(3^(-2)))*0,75+((-0,1-1/40)^1/2)+(1,2^(-1))= = 1 																											RESUELTO
+	j) (1/3-(2^(-2))*1,2+((0,55555+1,55555)^1/2)-(7/3)/(5/2)= = 1/2																										RESUELTO
+	k) (((-2+(100^1/2))^1/15)^5)-((-1-(-27^1/3)^2)+((256^1/2)^1/2)^1/2= = 0  																								RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2) Resolver:
+
+	a) 5/9+2/9= 7/9																																RESUELTO
+	b) 5/3+2/2= 16/6																															RESUELTO
+	c) 5/3+7/2+2/5= 167/30																															RESUELTO
+	d) 5/9+3= 32/9																																RESUELTO
+	e) 6/17+4/17= 10/17																															RESUELTO
+	f) -5/3-2/4= -26/12																															RESUELTO
+	g) 5/7+7/5+2/3= 292/105																															RESUELTO
+	h) 5/3+7= 26/3																																RESUELTO
+	i) 4/3+2/3= 6/3																																RESUELTO
+	j) 5/3-2/5= 9/15																															RESUELTO
+	k) 3/2+5/3+4/5= 119/30																															RESUELTO
+	l) 5/2-6= -7/2																																RESUELTO
+	m) 15/7-9/7= 6/7																															RESUELTO
+	n) 5/2-2/5= 21/10																															RESUELTO
+	ñ) 13/5+1/2+2/5= 66/20																															RESUELTO
+	o) 7/9+8= 79/9																																RESUELTO
+	p) 1/123+5/123= 6/123 																															RESUELTO	
+	q) -5/4+2/5= -17/20																															RESUELTO
+	r) 5/3+7/2+2/5= 167/30 																															RESUELTO
+	s) -3-2/9= -29/9																															RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+3) Resolver aplicando propiedades de potencia:
+
+	a) 2^3= 8																																RESUELTO
+	b) 5^2= 25																																RESUELTO
+	c) 7^3=  343																																RESUELTO
+	d) 2^6= 64																																RESUELTO
+	e) (-2)^2= 4																																RESUELTO
+	f) (-2)^3= -8																																RESUELTO
+	g) (-2)^7= -128																																RESUELTO
+	h) (-2)^10= 1024																															RESUELTO
+	i) (2/3)^3= 8/27																															RESUELTO
+	j) (-3/4)^4= 81/256																															RESUELTO
+	k) (-1/4)^2= 1/16																															RESUELTO
+	l) (-5/7)^2= 25/49																															RESUELTO
+	m) (x^4)*(x^6)= x^10																															RESUELTO
+	n) (x)^312/(x)^265= x^47																														RESUELTO
+	ñ) (x)^4*(x)^7/(x)^3*(x)^4= x^4																														RESUELTO
+	o) ((x^4)^6)= x^24																															RESUELTO
+	p) ((x^-7)^9)*((x^3)^21)= x^0 = 1																													RESUELTO
+	q) (x^12)*(x^23)*(x^41)= x^76																														RESUELTO
+	r) (x^312)/(x^265)= x^47																														RESUELTO
+	s) ((x^-3)*(x^5))/((x^2)*(x^1))= x^1																													RESUELTO
+	t) ((x^-3)^5)= x^-15																															RESUELTO
+	u) ((x^2)^8)/((x^4)^4)= x^0																														RESUELTO
+	v) (x^(1/3))/(x^(1/5))= x^(2/15)																													RESUELTO
+	w)  (x^(2/3))*(x^(3/2))*(x^(2/5))= x^(77/30)																												RESUELTO
+	x) (x^-12)/(x^-2)= x^-14																														RESUELTO
+	y) (x^-4)/((x^-7)= x^-11																														RESUELTO	
+	z) ((x^(4/3))^(6/5)) x^(24/15)																														RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+4) Por descomposición en factores primos encuentra el máximo común divisor (MCD) y el mínimo común múltiplo (MCM) de:
+
+	a) 15, 16, 48 y 150= (Descomposición en factores primos: (MCD -> 1) Y (MCM -> 720)																							RESUELTO
+	b) 18, 24 y 40= (Descomposición en factores primos: (MCD -> 2) Y (MCM -> 360) 																								RESUELTO
+	c) 500 y 700= (Descomposición en factores primos: (MCD -> 100) Y (MCM -> 3500) 																								RESUELTO
+	d) 46 y 69= (Descomposición en factores primos: (MCD -> 23) Y (MCM -> 138) 																								RESUELTO
+	e) 2, 3, 6, 12 y 50= (Descomposición en factores primos: (MCD -> 1) Y (MCM -> 300) 																							RESUELTO
+	f) 5, 7, 10 y 14= (Descomposición en factores primos: (MCD -> 1) Y (MCM -> 70) 																								RESUELTO
+	g) 13, 19, 39 y 342= (Descomposición en factores primos: (MCD -> 1) Y (MCM -> 4446) 																							RESUELTO
+	h) 32, 48 y 108= (Descomposición en factores primos: (MCD -> 4) Y (MCM -> 864) 																								RESUELTO
+	i) 14, 38, 56 y 114= (Descomposición en factores primos: (MCD -> 2) Y (MCM -> 3192)																							RESUELTO 
+	j) 14, 28 y 30= (Descomposición en factores primos: (MCD -> 2) Y (MCM -> 420) 																								RESUELTO	
+	k) 32 y 80= (Descomposición en factores primos: (MCD -> 16) Y (MCM -> 160) 																								RESUELTO
+	l) 108 y 216= (Descomposición en factores primos: (MCD -> 108) Y (MCM -> 216) 																								RESUELTO
+	m) 96 y 102= (Descomposición en factores primos: (MCD -> 6) Y (MCM -> 1632) 																								RESUELTO
+	n) 21, 39 y 60= (Descomposición en factores primos: (MCD -> 3) Y (MCM -> 5460) 																								RESUELTO
+	ñ) 98 y 490= (Descomposición en factores primos: (MCD -> 98) Y (MCM -> 490)  																								RESUELTO
+	o) 529 y 1058= (Descomposición en factores primos: (MCD -> 529) Y (MCM -> 1058) 																							RESUELTO
+	p) 845 y 1690= (Descomposición en factores primos: (MCD -> 845) Y (MCM -> 1690) 																							RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+5) resuelve los siguientes problemas utilizando el MCD y/o el MCM	
+	a) Andrés tiene en su tienda los botones metidos en bolsas. En la caja [A] tiene bolsitas de 24 botones cada una y no sobra ningún botón. En la caja [B] tiene bolsitas de 20 botones cada una y tampoco sobra ningún botón. El número de botones que hay en la caja [A] es igual que el que hay en la caja [B]. ¿Cuántos botones como mínimo hay en cada caja?
+	b) María y Jorge tienen 25 bolas blancas, 15 bolas azules y 90 bolas rojas y quieren hacer el mayor número de collares iguales sin que sobre ninguna bola. ¿Cuántos collares iguales pueden hacer? ¿Qué número de bolas de cada color tendrá cada collar?
+	c) Un campo rectangular de 360 m de largo y 150 m de ancho, está dividido en parcelas cuadradas iguales. El área de cada una de estas parcelas cuadradas es la mayor posible. ¿Cuál es la longitud del lado de cada parcela cuadrada?
+
+Resolución:
+	a)  Andrés tiene 120 botones en todas sus bolsas como mínimo.
+	b) María y Jorge van a poder hacer 5 collares iguales conformados por 5 bolas blancas, 3 bolas azules y 18 bolas rojas.
+	c) La longitud del lado de cada parcela cuadrada será de 30 metros.																									RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+6) Escribir los números primos del 1 al 100. Sugerencia buscar que es la criba de Eratóstenes.
+
+Resolución:
+	6) Los números primos entre 1 y 100: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89 y 97.																	RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+7) Basado en la regla de la raíz cuadrada cuáles de los siguientes números son primos: 11, 17, 23, 27, 89, 121, 127, 128, 127, 131, 135, 167, 189 y 199.
+
+Resolución:
+	7) Los números primos de la lista son: 11, 17, 23, 89, 127, 131 y 167.																									RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+8) Explicar por qué el 1 no se considera un número primo, ni tampoco un número compuesto.
+
+Resolución:
+	8) El número 1 solo tiene un divisor positivo, que es él mismo. Por lo tanto, no cumple con la definición de número primo según las matemáticas y dado que el número 1 solo tiene un divisor positivo (él mismo), no se puede clasificar como compuesto tampoco.	RESUELTO													
+																	
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+10) Pasar a fracción los siguientes números con decimales:
+	
+a) 2,35= 235/100																																RESUELTO
+b) 3,234234234…= (3.234-3)/999= 3.231/999																													RESUELTO
+c) 5,121212121…= (512-5)/99=  507/99																														RESUELTO
+d) 2,9345454…= (29.345-293)/9.900= 29.052/9.900																													RESUELTO
+e) 3,14159= 314.159/100.000 																															RESUELTO
+f) 5,124666…= (51.246-5.124)/9.900= 46.122/9.900																												RESUELTO
+g) 8,967= 8.967/1.000 																																RESUELTO
+h)5,1211211211...= (5.121-5)/999= 5.116/999																													RESUELTO
+i) 3,111313131...= (31.113-311)/9900= 30.802/9900																												RESUELTO
+j) 5,545= 5.545/1.000																																RESUELTO
+k) 4,127= 4.127/1.000																																RESUELTO
+l) 5,122222...= (5.122-51)/990= 5.071/990																													RESUELTO
+m) 2,133113311...= (21.331-2)/9.999= 21.329/9.999																												RESUELTO
+n) 2,1111111= 21.111.111/10.000.000																														RESUELTO
+ñ) 2,222222222...= (22.222-2)/9.999= 22.220/9.999																												RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+11) redondear los siguientes números a tres decimales:
+
+a) 1,23564= 1,236																																RESUELTO
+b) 2,4357698= 2,436																																RESUELTO
+c) 3,55555555= 2,556																																RESUELTO
+d) 2,49= 2,490																																	RESUELTO
+e) 25,2525252525…= 25,253																															RESUELTO
+f) 2,9475= 2,948																																RESUELTO
+g) 0,494949494= 0,495																																RESUELTO
+h) 1,12675= 1,127 																																RESUELTO
+i) 5,9531= 5,953																																RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 

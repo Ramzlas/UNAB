@@ -1,0 +1,149 @@
+Ejercicios:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+1) Di si las siguientes expresiones algebraicas son polinomios o no. En caso afirmativo, señala cuál es su grado y término independiente.
+ a) (x^4)-(3x^5)+(2x^2)+5
+ b) (x^(1/2))+(7x^2)+2
+ c) 1-(x^4)
+ d) (2/(x^2))-x-7
+ e) (x^3)+(x^5)+(x^2)
+ f) (x^3)-x-(7/2)
+ h) (x^2)-(2x^(-3))+8
+
+Resolución:
+ a) La expresión es un polimonio cuatrinomio de quinto grado con coeficiente principal de 3 y un termino independiente de 5.																				RESUELTO
+ b) La expresión es un polimonio trinomio de segundo grado con coeficiente principal de 7 y un termino independiente de 2.																				RESUELTO
+ c) La expresión es un polinomio binomio de cuarto grado con coeficiente principal de -1 y un termino independiente de 1.																				RESUELTO
+ d) La expresión no es un polinomio.																															RESUELTO
+ e) La expresión es un polinomio trinomio de quinto grado con coeficiente principal de 1 y sin termino independiente.																					RESUELTO
+ f) La expresión es un polinomio trinomio de tercer grado con coeficiente principal de 1 y un termino independiente de (7/2).																				RESUELTO
+ h) La expresión es un polinomio trinomio de segundo grado con coeficiente principal de 1 y un termino independiente de (+8).																				RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2) Escribe:
+ a) Un polinomio ordenado sin término independiente.
+ b) Un polinomio no ordenado y completo.
+ c) Un polinomio completo sin término independiente.
+ d) Un polinomio de grado 4, completo y con coeficientes impares.
+			
+Resolución:		
+ a) (4x^3)+(2x^2)-(6x).																																	RESUELTO
+ b) (5x)-(x^3)-8+(2x^2).																																RESUELTO
+ c) (3x^2)+(5x)-(7x^3).																																	RESUELTO
+ d) (x^4)+(7x^2)-(3x)-(13x^3).																																RESUELTO
+	
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+3) Dados los polinomios:
+ P(x)= (4x^2)−1
+ Q(x)= (x^3)−(3x^2)+6x−2
+ R(x)= (6x^2)+x+1
+ S(x)= ((1/2)x^2)+4
+ T(x)= (3/2x^2)+5
+ U(x)= (x^2)+2
+
+Calcular:
+ a) P(x)+Q(x)= ((4x^2)−1)+((x^3)−(3x^2)+6x−2).
+ b) P(x)−U(x)= ((4x^2)−1)-((x^2)+2).
+ c) P(x)+R(x)= ((4x^2)−1)+((6x^2)+x+1).
+ d) 2P(x)−R(x)= (2((4x^2)−1))-((6x^2)+x+1).
+ e) S(x)+T(x)+U(x)= ((1/2)x^2)+4)+(((3/2)x^2)+5)+((x^2)+2).
+ f) S(x)−T(x)+U(x)= ((1/2)x^2)+4)-(((3/2)x^2)+5)+((x^2)+2).
+
+Resolución:
+ a) ((4x^2)−1)+((x^3)−(3x^2)+6x−2)= (x^3)+(x^2)+6x-3.																													RESUELTO
+ b) ((4x^2)−1)-((x^2)+2)= (3x^2)+1.																															RESUELTO
+ c) ((4x^2)−1)+((6x^2)+x+1)= (10x^2)+x.																															RESUELTO
+ d) (2((4x^2)−1))-((6x^2)+x+1)= ((8x^2)-2)-((6x^2)+x+1)= (2x^2)+x-1.																											RESUELTO
+ e) ((1/2)x^2)+4)+(((3/2)x^2)+5)+((x^2)+2)= ((2x^2)+9)+((x^2)+2)= ((3x^2)+11).																										RESUELTO
+ f) ((1/2)x^2)+4)-(((3/2)x^2)+5)+((x^2)+2)=  ((-x^2)-1)+((x^2)+2)= 1.																											RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+4) Dados los polinomios:
+ P(x)= (x^4)−(2x^2)−6x−1
+ Q(x)= (x^3)−(6x^2)+4
+ R(x)= (2x^4)−2x−2
+
+Calcular:
+ a) P(x)+Q(x)−R(x)= ((x^4)-(2x^2)-6x-1)+((x^3)-(6x^2)+4)-((2x^4)-2x-2).
+ b) P(x)+2Q(x)−R(x)= ((x^4)-(2x^2)-6x-1)+2((x^3)-(6x^2)+4)-((2x^4)-2x-2). 
+ c) Q(x)+R(x)−P(x)= ((x^3)-(6x^2)+4)+((2x^4)-2x-2)-((x^4)-(2x^2)-6x-1).
+
+Resolución:
+ a) ((x^4)-(2x^2)-6x-1)+((x^3)-(6x^2)+4)-((2x^4)-2x-2)= -(x^4)+(x^3)-(8x^2)-4x+5.																									RESUELTO
+ b) ((x^4)-(2x^2)-6x-1)+((2x^3)-(12x^2)+8)-((2x^4)-2x-2)= (x^4)+(2x^3)-(14x^2)-6x+7-((2x^4)-2x-2)= -(x^4)+(2x^3)-(14x^2)-8x+5.																				RESUELTO
+ c) ((2x^4)+(x^3)-(8x^2)-2x+2)-((x^4)-(2x^2)-6x-1)= (x^4)+(x^3)-(10x^2)-8x+1.																										RESUELTO
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+5) Multiplicar:
+ a) ((x^4)−(2x^2)+2)*((x^2)−2x+3)=
+ b) ((3x^2)−5x)*((2x^3)+(4x^2)−x+2)=
+ c) ((2x^2)−5x+6)*((3x^4)−(5x^3)−(6x^2)+4x−3)=
+ 	
+Resolución:
+ a) ((x^4)−(2x^2)+2)*((x^2)−2x+3)= (x^6)-(2x^5)+(3x^4)-(2x^4)+(4x^3)-(6x^2)+(2x^2)-4x+6= (x^6)-(2x^5)+(x^4)+(4x^3)-(4x^2)-4x+6..																			RESUELTO
+ b) ((3x^2)−5x)*((2x^3)+(4x^2)−x+2)= (6x^5)+(12x^4)-(3x^3)+(6x^2)-(10x^4)-(20x^3)+(5x^2)-10x= (6x^5)+(2x^4)-(23x^3)+(11x^2)-10x.																			RESUELTO
+ c) ((2x^2)−5x+6)*((3x^4)−(5x^3)−(6x^2)+4x−3)= (6x^6)-(10x^5)-(12x^4)+(8x^3)-(6x^2)-(15x^5)+(25x^4)+(30x^3)-(20x^2)+15x+(18x^4)-(30x^3)-(36x^2)+24x-18= (6x^6)-(25x^5)+(21x^4)+(8x^3)-(62x^2)+39x-18.											RESUELTO											
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+6) Dividir:
+ a) ((x^4)−(2x^3)−(11x^2)+30x−20)/((x^2)+3x−2)
+ b) ((x^6)+(5x^4)+(3x^2)−2x)/((x^2)−x+3)
+ c) P(x)= (x^5)+(2x^3)−x−8	Q(x)= (x^2)−2x+1
+
+Resolución:
+ a) Hecho. El cociente es (x^2)-5x-6 y el resto es 22x-8.																												RESUELTO
+ b) Hecho. El cociente es (x^4)+(X^3)+(X^2) y el resto es -(3x^2)-2x-3.																											RESUELTO
+ c) Hecho. El cociente es ((x^3)+(2x^2)+5x) y el resto es (8x^2)-6x-8.																											RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+7) Divide por Ruffini:
+ a) ((x^3)+(2^x)+70)/(x+4)
+ b) ((x^5)−32)/(x−2)
+ c) ((x^4)−(3x^2)+2)/(x−3)
+
+Resolución:
+ a) Hecho. El resultado de la división es (x^2)-4x+18 y el resto es -2.																											RESUELTO
+ b) Hecho. El resultado de la división es (x^4)+(2x^3)+(4x^2)+8x+16 y el resto es 0.																									RESUELTO
+ c) Hecho. El resultado de la división es (x^3)+(3x^2)+6x+18 y el resto es 56.																										RESUELTO
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+8) Factorizar:
+ a) (9a^2)-(25b^2)= (3a+5b)(3a+5b)																															RESUELTO
+ b) (16x^2)-100= (4x-10)(4x+10)																																RESUELTO
+ c) (3x^2)-(5X^2)+2= (-x+1)(2x+2)																															RESUELTO
+ d) (9b^2)-(40q^2)=  
+ e) (9m^12)+(23n^6)+144=
+ f) (49x^2)–(64t^2)=
+ g) (5x^3)–(55x^2)+(140x)=
+ h) 225+(5y^2)+(y^4)=
+ i) (x^3)-(15x^2)+140x=
+ j) (8y^3)+(z^3)=
+ k) (4m^8)-(53m^4)+49=
+ l) 16-(9c^4)+(c^8)=
+ m) (8y^2)–18=
+ n) (x^2)+40-13x=
+ ñ) (12a^2)−27
+ o) (2a^5)-(162a^3)=
+ p) (25m^4)–(70m^2n)+(49n^2)=
+ q) (49x^4)-(18x^2)+1=
+ r) (21n^2)-11n–2 =
+ s) (3x^7)−27x=
+ t) (x^2)-11x+30=
+ u) (3x^2)+10x+3=
+ v) (12x^2)+17x–5=
+ w) (x^3)-(4x^2)+4x=
+ x) ax+ay–bx–by=
+ y) (2r^2)–(2s^2)+(hr^2)–(hs^2)=
+ z) (ae^x)–(be^x)+(ce^x)+(ae^x+1)–(be^x+1)+(ce^x+1)=
+ aa) (a^3)+(a^2)–9a-9=
+ ab) (y^4)-81=
+ ac) (36x^2)–(84xy)+(49y^2)=
+ ad) (m^3)+(m^2)–2=
+ ae) (a^5)–25(a^3)+(a^2)-25=
+ af) 16(x^6)(y^8)–8(x^3)(y^4)(z^7)+(z^14)=
+ ag) (4x^2)+7mnx–(15m^2)(n^2)=
+ ah) (x^2)–7xy–(18y^2)=
+ ai) (x^4)-(8x^2)+(20x^2)=
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
