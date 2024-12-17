@@ -1,4 +1,4 @@
-![UNAB Banner](Imágenes/Banner_UNAB.png)
+![UNAB Banner](Imágenes/Banners/Banner_UNAB.png)
 
 # UNAB - Tecnicatura Universitaria en Programación
 
