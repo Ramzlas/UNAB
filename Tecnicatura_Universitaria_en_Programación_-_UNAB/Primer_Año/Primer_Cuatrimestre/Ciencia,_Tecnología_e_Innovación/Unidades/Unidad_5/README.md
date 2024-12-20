@@ -40,6 +40,10 @@ Es importante recordar que la **escisión entre ciencia, técnica y tecnología*
 
 ---
 
+- [Educación tecnológica (A Gay)](https://www.youtube.com/watch?v=4wRK67OUvDg)
+
+---
+
 ## Actividades
 
 1. **Análisis Comparativo**  
