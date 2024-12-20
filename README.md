@@ -42,6 +42,6 @@
 
 ## Enlaces de Interés
 - [Universidad Nacional Guillermo Brown](https://www.unab.edu.ar)
-- [Plan de Estudios](Segumiento_academico_-_Tecnicatura_en_programación/Plan_de_estudios_(TeP)_-_UNAB.pdf)
+- [Plan de Estudios](Seguimiento_academico_-_Tecnicatura_en_programación/Plan_de_estudios_(TeP)_-_UNAB.pdf)
 
 ---
