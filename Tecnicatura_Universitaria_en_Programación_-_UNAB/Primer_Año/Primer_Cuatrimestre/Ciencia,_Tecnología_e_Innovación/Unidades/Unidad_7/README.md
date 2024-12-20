@@ -38,6 +38,10 @@ En este contexto, pondremos en diálogo estas ideas con las reflexiones de **Osc
 
 ---
 
+[El Plan económico de la Dictadura Militar 1976 - 1983 (inicio del neoliberalismo en Arg)](https://www.youtube.com/watch?v=zhHPWrQPaw4)
+
+---
+
 ## Actividades
 
 1. **Lectura Crítica**  
