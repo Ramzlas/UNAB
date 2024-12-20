@@ -38,6 +38,10 @@ Además, examinaremos las particularidades históricas y contextuales que influy
 
 ---
 
+[Argentina Ciencia y Tecnología](https://www.youtube.com/watch?v=rFZ0osMwv7w)
+
+---
+
 ## Actividades
 
 1. **Lectura y Reflexión**  
