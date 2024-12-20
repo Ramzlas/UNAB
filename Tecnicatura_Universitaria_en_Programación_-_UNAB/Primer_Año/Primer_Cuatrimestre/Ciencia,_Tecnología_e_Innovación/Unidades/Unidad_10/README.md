@@ -45,6 +45,10 @@ Analizaremos cómo las estructuras de ingreso, permanencia y ascenso impactan el
 
 ---
 
+[Científicas de acá - Mujeres trabajadoras en ciencia y tecnología](https://medium.com/cientificasdeaca/radiograf%C3%ADa-de-las-mujeres-trabajadoras-en-ciencia-y-tecnolog%C3%ADa-a67116be8f6b)
+
+---
+
 ## Actividades
 
 ### 1. Lectura y Análisis Crítico  
