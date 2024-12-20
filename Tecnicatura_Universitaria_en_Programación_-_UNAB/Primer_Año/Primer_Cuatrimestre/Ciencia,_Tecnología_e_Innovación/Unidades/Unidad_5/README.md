@@ -41,6 +41,7 @@ Es importante recordar que la **escisión entre ciencia, técnica y tecnología*
 ---
 
 - [Educación tecnológica (A Gay)](https://www.youtube.com/watch?v=4wRK67OUvDg)
+- [Entrevista Aquiles Gay](https://www.youtube.com/watch?v=qRNqdx_fJ4k)
 
 ---
 
