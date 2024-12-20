@@ -35,6 +35,13 @@ Realizaremos una lectura crítica sobre cómo las políticas de ciencia y tecnol
 
 ---
 
+[Torrado - Paenza](https://www.youtube.com/watch?v=El1dMheCi3g)
+[Sigfrido Kraft](https://vimeo.com/129485060)
+[Clase de Guido Leporace, texto: Hurtado y Zubeldía](https://youtu.be/sYCHMk8h0r4)
+[Clase de Guido Leporace, texto: Ana Carola Pardo](https://youtu.be/uqLi52mqgdI)
+
+---
+
 ## Actividades
 
 ### 1. Lectura y Análisis Crítico  
