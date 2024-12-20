@@ -26,7 +26,8 @@ En esta clase, continuaremos explorando las temáticas introducidas en nuestro p
 ## Materiales
 
 - **Material Bibliográfico Obligatorio**: Disponible en la pestaña correspondiente.  
-- **Recurso Audiovisual**: Complemento para acompañar la lectura.  
+- **Recurso Audiovisual**: Complemento para acompañar la lectura.
+- [El falsacionismo de Karl Popper](https://www.youtube.com/watch?v=QR6odHb24Qs)  
 
 ---
 
