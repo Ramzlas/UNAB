@@ -34,6 +34,10 @@ En este último encuentro con contenidos, nos enfocaremos en los **efectos ambie
 
 ---
 
+[Documental "Comprar - Tirar - Comprar"](https://www.youtube.com/watch?v=mUaCLzbDgm0)
+
+---
+
 ## Actividades
 
 ### 1. Lectura y Análisis  
