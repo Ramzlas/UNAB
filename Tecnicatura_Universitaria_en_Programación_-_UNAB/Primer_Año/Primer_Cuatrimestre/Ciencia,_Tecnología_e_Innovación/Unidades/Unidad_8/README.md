@@ -41,6 +41,10 @@ Nos encontramos en la **segunda mitad del recorrido de la materia**, después de
 
 ---
 
+- [“Argentina sin industria no tiene destino” Dr. Eduardo Dvorkin](https://www.youtube.com/watch?v=4HWYSQzcTdo)
+
+---
+
 ## Actividades
 
 ### 1. Lectura y Análisis  
