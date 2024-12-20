@@ -31,7 +31,8 @@ Durante esta semana finalizaremos la lectura del texto iniciado la semana anteri
 ## Materiales
 
 - Continuamos con el texto de Carbonelli (lectura de la **Unidad 3**).  
-- No se añade nuevo material bibliográfico esta semana.  
+- No se añade nuevo material bibliográfico esta semana.
+- [El concepto de paradigma de Thomas Kuhn](https://www.youtube.com/watch?v=uskPjbJyyD8)
 
 ---
 
