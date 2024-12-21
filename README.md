@@ -38,10 +38,18 @@
     - [Metodologías Ágiles para el desarollo de Software](Tecnicatura_Universitaria_en_Programación_-_UNAB/Tercer_Año/Segundo_Cuatrimestre/Metodologías_Ágiles_para_el_desarrollo_de_Software)
     - [Práctica Profesional Supervisada (PPS)](Tecnicatura_Universitaria_en_Programación_-_UNAB/Tercer_Año/Segundo_Cuatrimestre/Práctica_Profesional_Supervisada_(PPS))
 
- ---
+---
 
 ## Enlaces de Interés
+
 - [Universidad Nacional Guillermo Brown](https://www.unab.edu.ar)
 - [Plan de Estudios](Seguimiento_academico_-_Tecnicatura_en_programación/Plan_de_estudios_(TeP)_-_UNAB.pdf)
 
 ---
+
+## Importante
+
+Repositorio creado por [Ramiro Nicolás Díaz](https://github.com/Ramzlas). Varias secciones faltan terminar los readme ya que fueron creados con IA para tenerlos rapidamente pero habría que actualizarlos de manera correcta.
+
+---
+
