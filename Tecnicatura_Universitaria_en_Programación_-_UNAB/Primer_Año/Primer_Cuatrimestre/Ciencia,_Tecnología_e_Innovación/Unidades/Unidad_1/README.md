@@ -2,7 +2,7 @@
 
 ## Actividades de la Semana
 
-1. **Visualización del Video de Clacso**  
+1. **Visualización del Video de Clase**  
    - Título: *Disputas por el conocimiento: Saberes, ciencias y soberanía tecnológica*.  
    - Ubicación: Disponible en la pestaña de presentación.  
    - Objetivo: Reflexionar sobre las disputas en torno al conocimiento y las implicancias de la soberanía tecnológica.
@@ -17,4 +17,4 @@
 
 ## Objetivo de la Clase
 
-Introducirse en el **trabajo bibliográfico** mediante la visualización del video de Clacso y la lectura del texto de Esther Díaz. Estas actividades buscan sentar las bases para reflexionar sobre las **disputas por el conocimiento** y profundizar en los conceptos que subyacen al **conocimiento científico**.
+Introducirse en el **trabajo bibliográfico** mediante la visualización del video de Clase y la lectura del texto de Esther Díaz. Estas actividades buscan sentar las bases para reflexionar sobre las **disputas por el conocimiento** y profundizar en los conceptos que subyacen al **conocimiento científico**.
