@@ -1,5 +1,5 @@
 # 📚 Matemática General
-Materiales y recursos para el curso de Matemática General - UNAB
+Contenidos de Matemática General - UNAB
 
 ## 📂 Contenidos del directorio
 | Carpeta | Descripción |
@@ -12,3 +12,11 @@ Materiales y recursos para el curso de Matemática General - UNAB
 | [📄 Lista de contenidos](./lista_de_contenidos.md) | Resumen y lista de todos los contenidos. |
 
 ---
+
+📂 Contenidos del directorio
+- [📁 Banners](./Banners)
+- [📁 Modelos de repaso](./Modelos_de_repaso)
+- [📁 Prácticas](./Practicas)
+- [📁 Programa](./Programa)
+- [📁 Unidades](./Unidades)
+- [📄 Lista de contenidos](./lista_de_contenidos.md)
