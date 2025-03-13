@@ -17,5 +17,3 @@ Esta sección organiza el material por parcial, para que los estudiantes puedan 
   - 📌 **[Unidades para el primer parcial](./Unidades/Primer_parcial)**
   - 📌 **[Unidades para el segundo parcial](./Unidades/Primer_parcial)**
  
-  ---
-  
