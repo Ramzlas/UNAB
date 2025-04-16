@@ -2,7 +2,7 @@
 
 # UNAB - Tecnicatura Universitaria en Programación
 
-¡Hola! Soy **Ramiro Nicolás Díaz**, estudiante de la **Universidad Nacional Guillermo Brown (UNAB)**. Este repositorio está destinado a organizar y compartir los recursos, proyectos y tareas desarrollados a lo largo de mi carrera en la **Tecnicatura Universitaria en Programación**.
+¡Hola! Soy **Ramiro Nicolás Díaz**, estudiante de la **Universidad Nacional Guillermo Brown - (UNAB)**. Este repositorio está destinado a organizar y compartir los recursos, proyectos y tareas desarrollados a lo largo de mi carrera en la **Tecnicatura Universitaria en Programación**.
 
 ---
 
@@ -10,7 +10,7 @@
 
 - **Primer Año**
   - **Primer Cuatrimestre**
-    - [Ciencia, Tecnología e Inovación](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Primer_Cuatrimestre/Ciencia,_Tecnología_e_Innovación)
+    - [Ciencia, Tecnología e Innovación](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Primer_Cuatrimestre/Ciencia,_Tecnología_e_Innovación)
     - [Matemática General](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Primer_Cuatrimestre/Matemática_General)
     - [Algoritmos y estructuras de Datos](Tecnicatura_Universitaria_en_Programación_-_UNAB/Primer_Año/Primer_Cuatrimestre/Algoritmos_y_estructuras_de_Datos)
   - **Segundo Cuatrimestre**
@@ -41,6 +41,36 @@
 
 ---
 
+## 📊 Estado de las Materias
+
+<br>
+
+| Año | Cuatrimestre     | Materia                                                                 | Estado  | Comentarios                                      |
+|-----|------------------|-------------------------------------------------------------------------|---------|--------------------------------------------------|
+| 1°  | 1° Cuatrimestre  | Ciencia, Tecnología e Innovación                                        | ✅ 🛠️  | Aprobada, completando el directorio (25%)        |
+|     |                  | Matemática General                                                      | ✅ 🛠️  | Aprobada, completando el directorio (75%)        |
+|     |                  | Algoritmos y Estructuras de Datos                                       | ✅ ❌  | Aprobada, sin hacer el directorio (0%)           |
+|     | 2° Cuatrimestre  | Organización de Computadoras                                            | ❌ ❌  |                                                  |
+|     |                  | Álgebra                                                                 | 🛠️ 🛠️  | Cursando, completando el directorio (0%)         |
+|     |                  | Estructura de Datos                                                     | 🛠️ ❌  | Cursando, sin hacer el directorio (0%)           |
+|     |                  | Inglés                                                                  | ❌ ❌  |                                                  |
+| 2°  | 1° Cuatrimestre  | Programación Avanzada                                                   | ❌ ❌  |                                                  |
+|     |                  | Probabilidad y Estadística                                              | ❌ ❌  |                                                  |
+|     |                  | Desarrollo de Software                                                  | 🛠️ 🛠️  | Cursando, completando el directorio (0%)         |
+|     |                  | Inglés Comunicacional                                                   | ❌ ❌  |                                                  |
+|     | 2° Cuatrimestre  | Gestión de Datos                                                        | ❌ ❌  |                                                  |
+|     |                  | Inferencia Estadística y Reconocimiento de Patrones                     | ❌ ❌  |                                                  |
+|     |                  | Visualización de la Información                                         | ❌ ❌  |                                                  |
+| 3°  | 1° Cuatrimestre  | Sistemas Operativos                                                     | ❌ ❌  |                                                  |
+|     |                  | Redes de Computadoras                                                   | ❌ ❌  |                                                  |
+|     |                  | Conceptos y Paradigmas de Lenguajes de Programación                     | ❌ ❌  |                                                  |
+|     | 2° Cuatrimestre  | Programación Concurrente                                                | ❌ ❌  |                                                  |
+|     |                  | Inteligencia Artificial                                                 | ❌ ❌  |                                                  |
+|     |                  | Metodologías Ágiles para el Desarrollo de Software                      | ❌ ❌  |                                                  |
+|     |                  | Práctica Profesional Supervisada (PPS)                                  | ❌ ❌  |                                                  |
+
+---
+
 ## Enlaces de Interés
 
 - [Universidad Nacional Guillermo Brown](https://www.unab.edu.ar)
@@ -50,7 +80,6 @@
 
 ## Importante
 
-Repositorio creado por [Ramiro Nicolás Díaz](https://github.com/Ramzlas). Varias secciones faltan terminar los readme ya que fueron creados con IA para tenerlos rapidamente pero habría que actualizarlos de manera correcta.
+Repositorio creado por [Ramiro Nicolás Díaz](https://github.com/Ramzlas). Algunas secciones se encuentran en proceso de desarrollo. Los README fueron generados inicialmente con ayuda de inteligencia artificial para facilitar su estructura, pero serán actualizados manualmente para reflejar de manera precisa los contenidos y proyectos trabajados.
 
 ---
-
