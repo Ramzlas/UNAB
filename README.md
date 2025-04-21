@@ -56,7 +56,7 @@
 |     |                  | Inglés                                                                  | ❌ ❌  |                                                  |
 | 2°  | 1° Cuatrimestre  | Programación Avanzada                                                   | ❌ ❌  |                                                  |
 |     |                  | Probabilidad y Estadística                                              | ❌ ❌  |                                                  |
-|     |                  | Desarrollo de Software                                                  | 🛠️ 🛠️  | Cursando, completando el directorio (0%)         |
+|     |                  | Desarrollo de Software                                                  | 🛠️ 🛠️  | Cursando, completando el directorio (20%)         |
 |     |                  | Inglés Comunicacional                                                   | ❌ ❌  |                                                  |
 |     | 2° Cuatrimestre  | Gestión de Datos                                                        | ❌ ❌  |                                                  |
 |     |                  | Inferencia Estadística y Reconocimiento de Patrones                     | ❌ ❌  |                                                  |
