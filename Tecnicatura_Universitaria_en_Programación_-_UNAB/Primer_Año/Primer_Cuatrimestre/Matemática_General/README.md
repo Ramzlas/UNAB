@@ -16,4 +16,3 @@ Esta sección incluye ejercicios prácticos y modelos de examen para que los est
 Esta sección organiza el material por parcial, para que los estudiantes puedan consultar rápidamente los temas que deben estudiar para cada evaluación.
   - 📌 **[Unidades para el primer parcial](./Unidades/Primer_parcial)**
   - 📌 **[Unidades para el segundo parcial](./Unidades/Primer_parcial)**
- 
