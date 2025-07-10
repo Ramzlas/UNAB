@@ -41,36 +41,6 @@
 
 ---
 
-## 📊 Estado de las Materias
-
-<br>
-
-| Año | Cuatrimestre     | Materia                                                                 | Estado  | Comentarios                                      |
-|-----|------------------|-------------------------------------------------------------------------|---------|--------------------------------------------------|
-| 1°  | 1° Cuatrimestre  | Ciencia, Tecnología e Innovación                                        |         |                                                  |
-|     |                  | Matemática General                                                      |         |                                                  |
-|     |                  | Algoritmos y Estructuras de Datos                                       |         |                                                  |
-|     | 2° Cuatrimestre  | Organización de Computadoras                                            |         |                                                  |
-|     |                  | Álgebra                                                                 |         |                                                  |
-|     |                  | Estructura de Datos                                                     |         |                                                  |
-|     |                  | Inglés                                                                  |         |                                                  |
-| 2°  | 1° Cuatrimestre  | Programación Avanzada                                                   |         |                                                  |
-|     |                  | Probabilidad y Estadística                                              |         |                                                  |
-|     |                  | Desarrollo de Software                                                  |         |                                                  |
-|     |                  | Inglés Comunicacional                                                   |         |                                                  |
-|     | 2° Cuatrimestre  | Gestión de Datos                                                        |         |                                                  |
-|     |                  | Inferencia Estadística y Reconocimiento de Patrones                     |         |                                                  |
-|     |                  | Visualización de la Información                                         |         |                                                  |
-| 3°  | 1° Cuatrimestre  | Sistemas Operativos                                                     |         |                                                  |
-|     |                  | Redes de Computadoras                                                   |         |                                                  |
-|     |                  | Conceptos y Paradigmas de Lenguajes de Programación                     |         |                                                  |
-|     | 2° Cuatrimestre  | Programación Concurrente                                                |         |                                                  |
-|     |                  | Inteligencia Artificial                                                 |         |                                                  |
-|     |                  | Metodologías Ágiles para el Desarrollo de Software                      |         |                                                  |
-|     |                  | Práctica Profesional Supervisada (PPS)                                  |         |                                                  |
-
----
-
 ## Enlaces de Interés
 
 - [Universidad Nacional Guillermo Brown](https://www.unab.edu.ar)
@@ -80,6 +50,6 @@
 
 ## Importante
 
-Repositorio creado por [Ramiro Nicolás Díaz](https://github.com/Ramzlas). Algunas secciones se encuentran en proceso de desarrollo. Los README fueron generados inicialmente con ayuda de inteligencia artificial para facilitar su estructura, pero serán actualizados manualmente para reflejar de manera precisa los contenidos y proyectos trabajados.
+Repositorio creado por [Ramiro Nicolás Díaz](https://github.com/Ramzlas). Algunas secciones se encuentran en proceso de desarrollo. Los README fueron generados inicialmente con ayuda de la inteligencia artificial para facilitar su estructura, pero están siendo actualizados manualmente para ajustarlos de manera más correcta.
 
 ---
